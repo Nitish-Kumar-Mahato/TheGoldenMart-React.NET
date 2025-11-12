@@ -1,10 +1,3 @@
-
----
-
-## 🛒 **3. The Golden Mart — Online Grocery Store**  
-📁 **Repository:** `TheGoldenMart-React.NET`
-
-```markdown
 # 🛒 The Golden Mart — Online Grocery Store
 
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
